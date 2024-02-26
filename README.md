@@ -1,5 +1,4 @@
 Hi there 👋
- 
 
 My name is Aliya Tanayeva 🙋
 - I use Python for data analysis, using a libraries such as  (pandas, numpy, matplotlib, seaborn, plotly) to format the results.
